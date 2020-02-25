@@ -133,9 +133,7 @@ main h2 {
 	width: 50%;
 }
 
-.s-p {
-	font-size: 
-}
+
 
 .cont-skills {
 	text-align: center;
@@ -263,7 +261,7 @@ main {
 	}
 
 	.intro-p {
-		float left;
+		float: left;
 		margin: 1em;
 	}
 
